@@ -1,0 +1,23 @@
+{
+  "name": "react-native-install-apk",
+  "version": "1.0.0",
+  "description": "install .apk file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/flare216/react-native-install-apk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flare216/react-native-install-apk/issues"
+  },
+  "homepage": "https://github.com/flare216/react-native-install-apk#readme",
+  "keywords": [
+    "install",
+    "apk"
+  ],
+  "author": "flare216",
+  "license": "ISC"
+}
