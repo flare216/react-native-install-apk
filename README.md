@@ -1,4 +1,4 @@
-# react-native-install-apk
+# react-native-install-apk(android only)
 ## install
 `npm install react-native-install-apk --save`  
 
