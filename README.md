@@ -1,6 +1,7 @@
 # react-native-install-apk(android only)
 ## install
 `npm install react-native-install-apk --save`  
+`react-native link react-native-install-apk`
 
 ## usage  
     import NativeModules from 'react-native';  
