@@ -19,7 +19,6 @@ public class InstallApkPackager implements ReactPackage{
         return Arrays.<NativeModule>asList(new InstallApkModule(reactContext));
     }
 
-    @Override
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
