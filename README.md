@@ -4,7 +4,7 @@
 `react-native link react-native-install-apk`
 
 ## usage  
-    import NativeModules from 'react-native';  
+    import { NativeModules } from 'react-native';  
     NativeModules.InstallApk.install(path);  
 
 ## example code  
